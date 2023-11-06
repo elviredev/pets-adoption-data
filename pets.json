@@ -1,74 +1,74 @@
 [
 	{
 		"id": "asjdlkf7982134zio",
-		"name": "Meowsalot",
+		"name": "Moony",
 		"photo": "https://learnwebcode.github.io/pet-adoption-data/photos/meowsalot.webp",
-		"species": "cat",
+		"species": "chat",
 		"birthYear": "2019",
-		"description": "Meowsalot is a talkative friend that loves to play and is great with children. He is looking for a forever home today!"
+		"description": "Moony est une amie bavarde qui adore jouer et qui s'entend bien avec les enfants. Elle est à la recherche d'un foyer pour toujours aujourd'hui!"
 	},
 	{
 		"id": "bnvmzxcv11111111a",
-		"name": "Barksalot",
+		"name": "Barks",
 		"photo": "https://learnwebcode.github.io/pet-adoption-data/photos/golden.webp",
-		"species": "dog",
+		"species": "chien",
 		"birthYear": "2022",
-		"description": "Barksalot is a sweetheart that loves to play and is great with children. Fetch, hide and seek, tik-tac-toe, tog of war, hop scotch, you name the game; he wants to play! Barksalot has been at our location for the last two months and he is looking for a forever home today!"
+		"description": "Barksest aime jouer et s'entend bien avec les enfants. Aller chercher, cache-cache, tik-tac-toe, tog of war, hop scotch, à vous de choisir le jeu ; il veut jouer ! Barksalot est chez nous depuis deux mois et il est à la recherche d'un foyer pour toujours aujourd'hui!"
 	},
 	{
 		"id": "buoibrtz456789012",
-		"name": "Hopsalot",
+		"name": "Hops",
 		"photo": "https://learnwebcode.github.io/pet-adoption-data/photos/hopsalot.webp",
-		"species": "rabbit",
+		"species": "lapin",
 		"birthYear": "2023",
-		"description": "This is the fastest and highest jumping rabbit we have ever seen. Come visit her today!"
+		"description": "C'est le lapin qui saute le plus rapidement et le plus haut que nous ayons jamais vu. Venez lui rendre visite aujourd'hui!"
 	},
 	{
 		"id": "asdfasdfasdf29101",
 		"name": "Ruff",
 		"photo": "https://learnwebcode.github.io/pet-adoption-data/photos/dog3.webp",
-		"species": "dog",
+		"species": "chien",
 		"birthYear": "2017",
-		"description": "Ruff was a bit scared when we first found her, but she is an absolute sweetheart now. Your family will love her!"
+		"description": "J'avais un peu peur quand nous l'avons trouvée pour la première fois, mais elle est vraiment adorable maintenant. Votre famille va l'adorer!"
 	},
 	{
 		"id": "vbcbxvcbxcvb89080",
 		"name": "Purrsloud",
 		"photo": "https://learnwebcode.github.io/pet-adoption-data/photos/purrsloud.webp",
-		"species": "cat",
+		"species": "chat",
 		"birthYear": "2015",
-		"description": "This sweetheart has the loudest purr and the softest fur we have ever come across! Adopt him today!"
+		"description": "Cette chérie a le ronronnement le plus fort et la fourrure la plus douce que nous ayons jamais rencontrée ! Adoptez-le aujourd'hui!"
 	},
 	{
 		"id": "zxczcxzcxzcxzcx61",
 		"name": "Thump",
 		"photo": "https://learnwebcode.github.io/pet-adoption-data/photos/bunny2.webp",
-		"species": "rabbit",
+		"species": "lapin",
 		"birthYear": "2019",
-		"description": "If thump gets upset he kicks his back feet pretty hard. It's pretty endearing. Come see for yourself today."
+		"description": "Si Thump s'énerve, il donne un coup de pied assez fort avec ses pieds arrière. C'est plutôt attachant. Venez voir par vous-même aujourd'hui."
 	},
 	{
 		"id": "rertyetyeryte8765",
 		"name": "Breadmaker",
 		"photo": "https://learnwebcode.github.io/pet-adoption-data/photos/breadmaker.webp",
-		"species": "cat",
+		"species": "chat",
 		"birthYear": "2016",
-		"description": "Making biscuits, making bread; whatever you call it; this cat does it a lot. Come adopt her today!"
+		"description": "Faire des biscuits, faire du pain ; peu importe comment vous l'appelez ; ce chat le fait beaucoup. Venez l'adopter dès aujourd'hui!"
 	},
 	{
 		"id": "vnbbnvnbv98765432",
 		"name": "Luna",
 		"photo": "https://learnwebcode.github.io/pet-adoption-data/photos/dog2.webp",
-		"species": "dog",
+		"species": "chien",
 		"birthYear": "2014",
-		"description": "Luna is a joker and makes everyone she meets crack up. She is looking for a forever home!"
+		"description": "Luna est une farceuse et fait rire tous ceux qu'elle rencontre. Elle cherche un foyer pour toujours !"
 	},
 	{
 		"id": "jkllkjlk123456789",
 		"name": "Sleepy",
 		"photo": "https://learnwebcode.github.io/pet-adoption-data/photos/bunny3.webp",
-		"species": "rabbit",
+		"species": "lapin",
 		"birthYear": "2020",
-		"description": "Sleepy loves naps and cuddles. But he is also known to run laps and jump around. Visit him today!"
+		"description": "Sleepy adore les siestes et les câlins. Mais il est également connu pour courir des tours et des tours et sauter aussi. Visitez-le aujourd'hui!"
 	}
 ]
