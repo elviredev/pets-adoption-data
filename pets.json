@@ -104,7 +104,7 @@
 			"$oid": "64bc22876e40c1fa9f63422i"
 		},
 		"name": "Frank",
-		"photo": "https://elviredev.github.io/pets-adoption-data/photos/frank.webp",
+		"photo": "https://elviredev.github.io/pets-adoption-data/photos/frank.jpg",
 		"species": "chien",
 		"birthYear": "2019",
 		"description": "Frank est ami avec tous les autres chats et chiens de notre centre. Nous n'avons jamais vu un chien plus sympathique."
