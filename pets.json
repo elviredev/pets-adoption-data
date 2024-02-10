@@ -61,6 +61,16 @@
 	},
 	{
 		"_id": {
+			"$oid": "64bc27906e40c1fa9f638149"
+		},
+		"name": "Pompom",
+		"photo": "https://elviredev.github.io/pets-adoption-data/photos/pompom.jpg",
+		"species": "poule",
+		"birthYear": "2021",
+		"description": "Cette gentille poulette est très affectueuse. Elle ne voit pas très clair mais répond lorsqu'on l'appelle. Elle adore être promenée dans les bras. Un amour avec une belle coupe de plumes sur la tête. Je l'adore !"
+	},
+	{
+		"_id": {
 			"$oid": "64bc27906e40c1fa9f634477"
 		},
 		"name": "Thump",
@@ -78,6 +88,16 @@
 		"species": "chat",
 		"birthYear": "2016",
 		"description": "Faire des biscuits, faire du pain... Peu importe comment vous l'appelez, ce chat le fait beaucoup. Venez l'adopter dès aujourd'hui!"
+	},
+	{
+		"_id": {
+			"$oid": "64bc27906e40c1fa9f638149"
+		},
+		"name": "Edwige",
+		"photo": "https://elviredev.github.io/pets-adoption-data/photos/edwige.jpg",
+		"species": "poule",
+		"birthYear": "2021",
+		"description": "Edwige a un sacré caractère, c'est une cheffe avertie et directive ! Elle ne vole pas mais fait l'hélicoptère avec ses ailes lorsqu'elle court, très amusante !"
 	},
 	{
 		"_id": {
