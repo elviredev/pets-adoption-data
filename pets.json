@@ -27,7 +27,7 @@
 		"photo": "https://elviredev.github.io/pets-adoption-data/photos/barksalot.jpg",
 		"species": "chien",
 		"birthYear": "2022",
-		"description": "Barks aime jouer et s'entend bien avec les enfants. Aller chercher, cache-cache, tik-tac-toe, tog of war, hop scotch, à vous de choisir le jeu ; il veut jouer ! Barksalot est chez nous depuis deux mois et aujourd'hui il est à la recherche d'un foyer pour toujours !"
+		"description": "Barks aime jouer et s'entend bien avec les enfants. Barks est chez nous depuis deux mois et aujourd'hui il est à la recherche d'un foyer pour toujours !"
 	},
 	{
 		"_id": {
@@ -77,7 +77,7 @@
 		"photo": "https://elviredev.github.io/pets-adoption-data/photos/breadmaker.webp",
 		"species": "chat",
 		"birthYear": "2016",
-		"description": "Faire des biscuits, faire du pain ; peu importe comment vous l'appelez ; ce chat le fait beaucoup. Venez l'adopter dès aujourd'hui!"
+		"description": "Faire des biscuits, faire du pain... Peu importe comment vous l'appelez, ce chat le fait beaucoup. Venez l'adopter dès aujourd'hui!"
 	},
 	{
 		"_id": {
