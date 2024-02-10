@@ -114,16 +114,17 @@
 			"$oid": "64bc22876e40c1fa9f63455f"
 		},
 		"name": "Meowsalot",
+		"photo": "https://elviredev.github.io/pets-adoption-data/photos/meowsalot.jpg",
 		"species": "chat",
 		"birthYear": "2023",
-		"description": "Meowsalot est le chat le plus bavard que nous ayons jamais rencontré. Miaulements, gazouillis et ronronnements constants.",
-		"photo": "https://learnwebcode.github.io/bootcamp-pet-data/photos/meowsalot.jpg"
+		"description": "Meowsalot est le chat le plus bavard que nous ayons jamais rencontré. Miaulements, gazouillis et ronronnements constants."
 	},
 	{
 		"_id": {
 			"$oid": "64bc27786e40c1fa9f634562"
 		},
 		"name": "Woof",
+		"photo": "https://elviredev.github.io/pets-adoption-data/photos/woof.jpg",
 		"species": "chien",
 		"birthYear": "2024",
 		"description": "Woof est un chiot très bavard et doux. Elle adore les betteraves, les prunes, les câlins et sauter par-dessus les clôtures basses."
