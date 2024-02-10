@@ -1,22 +1,38 @@
 [
 	{
-		"id": "asjdlkf7982134zio",
-		"name": "Moony",
-		"photo": "https://elviredev.github.io/pets-adoption-data/photos/moony.webp",
+		"_id": {
+			"$oid": "64bc22876e40c1fa9f63789t"
+		},
+		"name": "Plumette",
+		"photo": "https://elviredev.github.io/pets-adoption-data/photos/plumette.jpg",
 		"species": "chat",
-		"birthYear": "2019",
-		"description": "Moony est une amie bavarde qui adore jouer et qui s'entend bien avec les enfants. Elle est à la recherche d'un foyer pour toujours aujourd'hui!"
+		"birthYear": "2017",
+		"description": "Plumette est une adorable petite chatte avec un caractère bien trempé. Elle adore être à l'extérieur."
 	},
 	{
-		"id": "bnvmzxcv11111111a",
-		"name": "Barks",
-		"photo": "https://elviredev.github.io/pets-adoption-data/photos/barks.webp",
+		"_id": {
+			"$oid": "64bc22876e40c1fa9f63411g"
+		},
+		"name": "Totoro",
+		"photo": "https://elviredev.github.io/pets-adoption-data/photos/totoro.jpg",
+		"species": "chat",
+		"birthYear": "2021",
+		"description": "Totoro est un jeune chat dans sa tête, un vrai petit chaton très affectueux. Il parle beaucoup et adore jouer à l'extérieur."
+	},
+	{
+		"_id": {
+			"$oid": "64bc27486e40c1fa9f634561"
+		},
+		"name": "Barksalot",
+		"photo": "https://elviredev.github.io/pets-adoption-data/photos/barksalot.jpg",
 		"species": "chien",
 		"birthYear": "2022",
-		"description": "Barks aime jouer et s'entend bien avec les enfants. Aller chercher, cache-cache, tik-tac-toe, tog of war, hop scotch, à vous de choisir le jeu ; il veut jouer ! Barksalot est chez nous depuis deux mois et il est à la recherche d'un foyer pour toujours aujourd'hui!"
+		"description": "Barks aime jouer et s'entend bien avec les enfants. Aller chercher, cache-cache, tik-tac-toe, tog of war, hop scotch, à vous de choisir le jeu ; il veut jouer ! Barksalot est chez nous depuis deux mois et aujourd'hui il est à la recherche d'un foyer pour toujours !"
 	},
 	{
-		"id": "buoibrtz456789012",
+		"_id": {
+			"$oid": "64bc22876e40c1fa9f63118i"
+		},
 		"name": "Hops",
 		"photo": "https://elviredev.github.io/pets-adoption-data/photos/hops.webp",
 		"species": "lapin",
@@ -24,7 +40,9 @@
 		"description": "C'est le lapin qui saute le plus rapidement et le plus haut que nous ayons jamais vu. Venez lui rendre visite aujourd'hui!"
 	},
 	{
-		"id": "asdfasdfasdf29101",
+		"_id": {
+			"$oid": "64bc27786e40c1fa9f639335"
+		},
 		"name": "Ruff",
 		"photo": "https://elviredev.github.io/pets-adoption-data/photos/ruff.webp",
 		"species": "chien",
@@ -32,15 +50,19 @@
 		"description": "J'avais un peu peur quand nous l'avons trouvée pour la première fois, mais elle est vraiment adorable maintenant. Votre famille va l'adorer!"
 	},
 	{
-		"id": "vbcbxvcbxcvb89080",
+		"_id": {
+			"$oid": "64bc27906e40c1fa9f634563"
+		},
 		"name": "Purrsloud",
 		"photo": "https://elviredev.github.io/pets-adoption-data/photos/purrsloud.webp",
 		"species": "chat",
 		"birthYear": "2015",
-		"description": "Cette chérie a le ronronnement le plus fort et la fourrure la plus douce que nous ayons jamais rencontrée ! Adoptez-le aujourd'hui!"
+		"description": "Cette chérie a le ronronnement le plus fort et la fourrure la plus douce que nous ayons jamais rencontrée ! Adoptez-la aujourd'hui!"
 	},
 	{
-		"id": "zxczcxzcxzcxzcx61",
+		"_id": {
+			"$oid": "64bc27906e40c1fa9f634477"
+		},
 		"name": "Thump",
 		"photo": "https://elviredev.github.io/pets-adoption-data/photos/thump.webp",
 		"species": "lapin",
@@ -48,7 +70,9 @@
 		"description": "Si Thump s'énerve, il donne un coup de pied assez fort avec ses pieds arrière. C'est plutôt attachant. Venez voir par vous-même aujourd'hui."
 	},
 	{
-		"id": "rertyetyeryte8765",
+		"_id": {
+			"$oid": "64bc27906e40c1fa9f638951"
+		},
 		"name": "Breadmaker",
 		"photo": "https://elviredev.github.io/pets-adoption-data/photos/breadmaker.webp",
 		"species": "chat",
@@ -56,7 +80,9 @@
 		"description": "Faire des biscuits, faire du pain ; peu importe comment vous l'appelez ; ce chat le fait beaucoup. Venez l'adopter dès aujourd'hui!"
 	},
 	{
-		"id": "vnbbnvnbv98765432",
+		"_id": {
+			"$oid": "64bc27906e40c1fa9f633342"
+		},
 		"name": "Luna",
 		"photo": "https://elviredev.github.io/pets-adoption-data/photos/luna.webp",
 		"species": "chien",
@@ -64,11 +90,42 @@
 		"description": "Luna est une farceuse et fait rire tous ceux qu'elle rencontre. Elle cherche un foyer pour toujours !"
 	},
 	{
-		"id": "jkllkjlk123456789",
+		"_id": {
+			"$oid": "64bc27906e40c1fa9f638816"
+		},
 		"name": "Sleepy",
 		"photo": "https://elviredev.github.io/pets-adoption-data/photos/sleepy.webp",
 		"species": "lapin",
 		"birthYear": "2020",
 		"description": "Sleepy adore les siestes et les câlins. Mais il est également connu pour courir des tours et des tours et sauter aussi. Visitez-le aujourd'hui!"
+	},
+	{
+		"_id": {
+			"$oid": "64bc22876e40c1fa9f63422i"
+		},
+		"name": "Frank",
+		"photo": "https://elviredev.github.io/pets-adoption-data/photos/frank.webp",
+		"species": "chien",
+		"birthYear": "2019",
+		"description": "Frank est ami avec tous les autres chats et chiens de notre centre. Nous n'avons jamais vu un chien plus sympathique."
+	},
+	{
+		"_id": {
+			"$oid": "64bc22876e40c1fa9f63455f"
+		},
+		"name": "Meowsalot",
+		"species": "chat",
+		"birthYear": "2023",
+		"description": "Meowsalot est le chat le plus bavard que nous ayons jamais rencontré. Miaulements, gazouillis et ronronnements constants.",
+		"photo": "https://learnwebcode.github.io/bootcamp-pet-data/photos/meowsalot.jpg"
+	},
+	{
+		"_id": {
+			"$oid": "64bc27786e40c1fa9f634562"
+		},
+		"name": "Woof",
+		"species": "chien",
+		"birthYear": "2013",
+		"description": "Woof est un chiot très bavard et doux. Elle adore les betteraves, les prunes, les câlins et sauter par-dessus les clôtures basses."
 	}
 ]
